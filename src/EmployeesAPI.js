@@ -2,7 +2,7 @@ const Employees = [
   {
     id: "1",
     name: "Usman Khan",
-    role: "Developer"
+    role: "Leader"
   },
   {
     id: "2",
@@ -12,6 +12,21 @@ const Employees = [
   {
     id: "3",
     name: "Haris Safeer",
+    role: "Developer"
+  },
+  {
+    id: "4",
+    name: "Umair Rajpoot",
+    role: "Developer"
+  },
+  {
+    id: "5",
+    name: "Usman Ali",
+    role: "Developer"
+  },
+  {
+    id: "6",
+    name: "Hamza Javeid",
     role: "Developer"
   }
 ];
